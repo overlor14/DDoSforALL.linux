@@ -18,6 +18,7 @@
 	1. proxychains
 	2. TOR service
 	3. MHDDoS (Директорія з скриптом - /MHDDoS)
+		> Інструкція MHDDoS - https://github.com/MHProDev/MHDDoS
 
 2. Edit proxychains > Тут можна відредагувати список проксі в proxychains:
 	1. Add your own proxies. - Додати власні проксі. Проксі вписуєте через кому [PROXY TYPE] [IP] [PORT],...,[PROXY TYPE] [IP] [PORT]
